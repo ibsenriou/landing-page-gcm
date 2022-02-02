@@ -1,0 +1,36 @@
+.imagem-carrossel--1 {
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 350px;
+}
+
+.imagem-carrossel--2 {
+    object-fit: cover;
+    object-position: 0 50%;
+    height: 350px;
+}
+
+.imagem-carrossel--3 {
+    object-fit: cover;
+    object-position: 0 50%;
+    height: 350px;
+}
+
+.fonteTitulo {
+    font-family: 'Playfair Display', serif;
+    color: white;
+    box-shadow: 1rem .25rem black;
+}
+
+.fonteTitulo--body {
+    font-family: 'Playfair Display', serif;
+}
+
+.card__largura {
+    max-width: 14rem;
+}
+
+.card__posicaoImagem {
+    object-fit: cover;
+    height: 200px;
+}
